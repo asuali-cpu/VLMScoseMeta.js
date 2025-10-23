@@ -1,0 +1,9 @@
+{
+  "name": "vlms",
+  "version": "2.0.0",
+  "description": "VLMS WebGL2 Ray Tracing Engine",
+  "main": "VLMS.js",
+  "type": "module",
+  "author": "Sourav Shil",
+  "license": "MIT"
+}
